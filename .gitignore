@@ -9,4 +9,7 @@
 /build
 /captures
 .externalNativeBuild
+<<<<<<< HEAD
 local.properties
+=======
+>>>>>>> b191ee2647dbb61ebfeacfe018a61404f3629dd9

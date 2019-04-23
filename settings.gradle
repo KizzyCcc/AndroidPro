@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 include ':example', ':latte_annotation', ':latte_complier', ':latte_core', ':latte_ec'
+=======
+include ':app'
+>>>>>>> b191ee2647dbb61ebfeacfe018a61404f3629dd9
